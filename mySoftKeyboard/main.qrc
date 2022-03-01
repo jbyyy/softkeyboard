@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/keyboard">
+        <file>SoftKeyBoard/FontLibrary.txt</file>
+    </qresource>
+</RCC>
